@@ -1,0 +1,11 @@
+lock_backend = "light-locker"
+camera_index = 0
+width = 320
+height = 240
+fps = 5.0
+confidence = 0.5
+absence_timeout = 5.0
+multiple_face_frames = 3
+camera_timeout = 5.0
+startup_timeout = 20.0
+lock_on_camera_loss = true

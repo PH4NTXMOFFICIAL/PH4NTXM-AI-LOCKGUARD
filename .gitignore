@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.log.*
+/ph4ntxm-ai-lockguard/face_detector.task
+/ph4ntxm-ai-lockguard/face_detector.task.part
+/ph4ntxm-ai-lockguard/.lockguard-model-*
